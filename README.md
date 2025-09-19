@@ -47,7 +47,7 @@ npm install
 npm run dev
 
 
-Runs the Express server on http://localhost:4000 (or configured port).
+Runs the Express server on http://localhost:5000 (or configured port).
 
 Frontend
 cd frontend
